@@ -12,5 +12,5 @@ My current goal is to leverage my background in software and IT operations, comb
 
 * Data Science & AI: `Python` | `Pandas` | `NumPy` | `Scikit-learn` | `Matplotlib`
 * Database: `SQL` (MS SQL Server)
-* Software Development: `C#` | `.NET Framework`
+* Software Development: `C#`
 * Fundamentals: `HTML/CSS` 
